@@ -1,0 +1,6 @@
+{
+  "name": "VoltTech - Loja de Eletrônicos",
+  "description": "Landing page moderna e completa para loja de eletrônicos com catálogo interativo, ofertas relâmpago, carrinho de compras e especificações técnicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
